@@ -1,0 +1,29 @@
+M:\IT Material\CPR-Mr Magwaza\OOP_Exercises\Interest\Interest\bin\Debug\Interest.exe.config
+Z:\27.CPR_2018\2.Interest\Interest\bin\Debug\Interest.exe.config
+Z:\27.CPR_2018\2.Interest\Interest\bin\Debug\Interest.exe
+Z:\27.CPR_2018\2.Interest\Interest\bin\Debug\Interest.pdb
+Z:\27.CPR_2018\2.Interest\Interest\bin\Debug\Interest.xml
+Z:\27.CPR_2018\2.Interest\Interest\obj\Debug\Interest.Form1.resources
+Z:\27.CPR_2018\2.Interest\Interest\obj\Debug\Interest.Resources.resources
+Z:\27.CPR_2018\2.Interest\Interest\obj\Debug\Interest.vbproj.GenerateResource.Cache
+Z:\27.CPR_2018\2.Interest\Interest\obj\Debug\Interest.exe
+Z:\27.CPR_2018\2.Interest\Interest\obj\Debug\Interest.xml
+Z:\27.CPR_2018\2.Interest\Interest\obj\Debug\Interest.pdb
+C:\Users\gmagwaza\Desktop\GMA_DESKTOP_2019\3.CPR\4.CPR_PROJECTS_2019_LECTURER\2.Interest\Interest\bin\Debug\Interest.exe.config
+C:\Users\gmagwaza\Desktop\GMA_DESKTOP_2019\3.CPR\4.CPR_PROJECTS_2019_LECTURER\2.Interest\Interest\obj\Debug\Interest.exe
+C:\Users\gmagwaza\Desktop\GMA_DESKTOP_2019\3.CPR\4.CPR_PROJECTS_2019_LECTURER\2.Interest\Interest\obj\Debug\Interest.xml
+C:\Users\gmagwaza\Desktop\GMA_DESKTOP_2019\3.CPR\4.CPR_PROJECTS_2019_LECTURER\2.Interest\Interest\obj\Debug\Interest.pdb
+C:\Users\gmagwaza\Desktop\2021\1.CPR\Term1\Student Projects 2021\2.Interest\Interest\bin\Debug\Interest.exe.config
+C:\Users\gmagwaza\Desktop\2021\1.CPR\Term1\Student Projects 2021\2.Interest\Interest\obj\Debug\Interest.exe
+C:\Users\gmagwaza\Desktop\2021\1.CPR\Term1\Student Projects 2021\2.Interest\Interest\obj\Debug\Interest.xml
+C:\Users\gmagwaza\Desktop\2021\1.CPR\Term1\Student Projects 2021\2.Interest\Interest\obj\Debug\Interest.pdb
+C:\Users\gmagwaza\Desktop\2021\1.CPR\Term1\Student Projects 2021\1.Object Oriented Programming\2.Interest\Interest\bin\Debug\Interest.exe.config
+C:\Users\gmagwaza\Desktop\2021\1.CPR\Term1\Student Projects 2021\1.Object Oriented Programming\2.Interest\Interest\obj\Debug\Interest.exe
+C:\Users\gmagwaza\Desktop\2021\1.CPR\Term1\Student Projects 2021\1.Object Oriented Programming\2.Interest\Interest\obj\Debug\Interest.xml
+C:\Users\gmagwaza\Desktop\2021\1.CPR\Term1\Student Projects 2021\1.Object Oriented Programming\2.Interest\Interest\obj\Debug\Interest.pdb
+C:\Users\gmagwaza\Desktop\2021\1.CPR\Term1\Student Projects 2021\1.Object Oriented Programming\2.Interest\Interest\bin\Debug\Interest.exe
+C:\Users\gmagwaza\Desktop\2021\1.CPR\Term1\Student Projects 2021\1.Object Oriented Programming\2.Interest\Interest\bin\Debug\Interest.pdb
+C:\Users\gmagwaza\Desktop\2021\1.CPR\Term1\Student Projects 2021\1.Object Oriented Programming\2.Interest\Interest\bin\Debug\Interest.xml
+C:\Users\gmagwaza\Desktop\2021\1.CPR\Term1\Student Projects 2021\1.Object Oriented Programming\2.Interest\Interest\obj\Debug\Interest.Form1.resources
+C:\Users\gmagwaza\Desktop\2021\1.CPR\Term1\Student Projects 2021\1.Object Oriented Programming\2.Interest\Interest\obj\Debug\Interest.Resources.resources
+C:\Users\gmagwaza\Desktop\2021\1.CPR\Term1\Student Projects 2021\1.Object Oriented Programming\2.Interest\Interest\obj\Debug\Interest.vbproj.GenerateResource.Cache

@@ -1,0 +1,54 @@
+C:\Users\gmagwaza\Desktop\SalaryCalculator2009\SalaryCalculator2009\bin\Debug\SalaryCalculator2009.exe.config
+C:\Users\gmagwaza\Desktop\SalaryCalculator2009\SalaryCalculator2009\bin\Debug\SalaryCalculator2009.exe
+C:\Users\gmagwaza\Desktop\SalaryCalculator2009\SalaryCalculator2009\bin\Debug\SalaryCalculator2009.pdb
+C:\Users\gmagwaza\Desktop\SalaryCalculator2009\SalaryCalculator2009\bin\Debug\SalaryCalculator2009.xml
+C:\Users\gmagwaza\Desktop\SalaryCalculator2009\SalaryCalculator2009\obj\Debug\SalaryCalculator2009.Form1.resources
+C:\Users\gmagwaza\Desktop\SalaryCalculator2009\SalaryCalculator2009\obj\Debug\SalaryCalculator2009.Resources.resources
+C:\Users\gmagwaza\Desktop\SalaryCalculator2009\SalaryCalculator2009\obj\Debug\SalaryCalculator2009.vbproj.GenerateResource.Cache
+C:\Users\gmagwaza\Desktop\SalaryCalculator2009\SalaryCalculator2009\obj\Debug\SalaryCalculator2009.exe
+C:\Users\gmagwaza\Desktop\SalaryCalculator2009\SalaryCalculator2009\obj\Debug\SalaryCalculator2009.xml
+C:\Users\gmagwaza\Desktop\SalaryCalculator2009\SalaryCalculator2009\obj\Debug\SalaryCalculator2009.pdb
+C:\Users\gmagwaza\Desktop\SalaryCalculator2009 - Copy\SalaryCalculator2009\bin\Debug\SalaryCalculator2009.exe.config
+C:\Users\gmagwaza\Desktop\SalaryCalculator2009 - Copy\SalaryCalculator2009\obj\Debug\SalaryCalculator2009.exe
+C:\Users\gmagwaza\Desktop\SalaryCalculator2009 - Copy\SalaryCalculator2009\obj\Debug\SalaryCalculator2009.xml
+C:\Users\gmagwaza\Desktop\SalaryCalculator2009 - Copy\SalaryCalculator2009\obj\Debug\SalaryCalculator2009.pdb
+Z:\25.MTA-Mr Magwaza\GMagawaza_Drive\11.ISD2017\ISD PRACTICAL QP & SOLUTION FILES\ISD L2 NOV 2009 PRACTICAL\SalaryCalculator2009 - Copy\SalaryCalculator2009\bin\Debug\SalaryCalculator2009.exe.config
+Z:\25.MTA-Mr Magwaza\GMagawaza_Drive\11.ISD2017\ISD PRACTICAL QP & SOLUTION FILES\ISD L2 NOV 2009 PRACTICAL\SalaryCalculator2009 - Copy\SalaryCalculator2009\obj\Debug\SalaryCalculator2009.exe
+Z:\25.MTA-Mr Magwaza\GMagawaza_Drive\11.ISD2017\ISD PRACTICAL QP & SOLUTION FILES\ISD L2 NOV 2009 PRACTICAL\SalaryCalculator2009 - Copy\SalaryCalculator2009\obj\Debug\SalaryCalculator2009.xml
+Z:\25.MTA-Mr Magwaza\GMagawaza_Drive\11.ISD2017\ISD PRACTICAL QP & SOLUTION FILES\ISD L2 NOV 2009 PRACTICAL\SalaryCalculator2009 - Copy\SalaryCalculator2009\obj\Debug\SalaryCalculator2009.pdb
+Z:\27.CPR_2018\SalaryCalculator\SalaryCalculator2009\bin\Debug\SalaryCalculator2009.exe.config
+Z:\27.CPR_2018\SalaryCalculator\SalaryCalculator2009\obj\Debug\SalaryCalculator2009.exe
+Z:\27.CPR_2018\SalaryCalculator\SalaryCalculator2009\obj\Debug\SalaryCalculator2009.xml
+Z:\27.CPR_2018\SalaryCalculator\SalaryCalculator2009\obj\Debug\SalaryCalculator2009.pdb
+Z:\27.CPR_2018\3.SalaryCalculator\SalaryCalculator2009\bin\Debug\SalaryCalculator2009.exe.config
+Z:\27.CPR_2018\3.SalaryCalculator\SalaryCalculator2009\obj\Debug\SalaryCalculator2009.exe
+Z:\27.CPR_2018\3.SalaryCalculator\SalaryCalculator2009\obj\Debug\SalaryCalculator2009.xml
+Z:\27.CPR_2018\3.SalaryCalculator\SalaryCalculator2009\obj\Debug\SalaryCalculator2009.pdb
+Z:\26.PCP_2018\3.SalaryCalculator\SalaryCalculator2009\bin\Debug\SalaryCalculator2009.exe.config
+Z:\26.PCP_2018\3.SalaryCalculator\SalaryCalculator2009\obj\Debug\SalaryCalculator2009.exe
+Z:\26.PCP_2018\3.SalaryCalculator\SalaryCalculator2009\obj\Debug\SalaryCalculator2009.xml
+Z:\26.PCP_2018\3.SalaryCalculator\SalaryCalculator2009\obj\Debug\SalaryCalculator2009.pdb
+Z:\26.PCP_2018\3.SalaryCalculator\SalaryCalculator2009\bin\Debug\SalaryCalculator2009.exe
+Z:\26.PCP_2018\3.SalaryCalculator\SalaryCalculator2009\bin\Debug\SalaryCalculator2009.pdb
+Z:\26.PCP_2018\3.SalaryCalculator\SalaryCalculator2009\bin\Debug\SalaryCalculator2009.xml
+Z:\26.PCP_2018\3.SalaryCalculator\SalaryCalculator2009\obj\Debug\SalaryCalculator2009.Form1.resources
+Z:\26.PCP_2018\3.SalaryCalculator\SalaryCalculator2009\obj\Debug\SalaryCalculator2009.Resources.resources
+Z:\26.PCP_2018\3.SalaryCalculator\SalaryCalculator2009\obj\Debug\SalaryCalculator2009.vbproj.GenerateResource.Cache
+C:\Users\gmagwaza\Desktop\GMA_DESKTOP_2019\2.PCP\4.PCP_PROJECTS_2019_LECTURER\3.SalaryCalculator\SalaryCalculator2009\bin\Debug\SalaryCalculator2009.exe.config
+C:\Users\gmagwaza\Desktop\GMA_DESKTOP_2019\2.PCP\4.PCP_PROJECTS_2019_LECTURER\3.SalaryCalculator\SalaryCalculator2009\obj\Debug\SalaryCalculator2009.exe
+C:\Users\gmagwaza\Desktop\GMA_DESKTOP_2019\2.PCP\4.PCP_PROJECTS_2019_LECTURER\3.SalaryCalculator\SalaryCalculator2009\obj\Debug\SalaryCalculator2009.xml
+C:\Users\gmagwaza\Desktop\GMA_DESKTOP_2019\2.PCP\4.PCP_PROJECTS_2019_LECTURER\3.SalaryCalculator\SalaryCalculator2009\obj\Debug\SalaryCalculator2009.pdb
+C:\Users\gmagwaza\Desktop\2021\1.CPR\Term1\Student Projects 2021\3.SalaryCalculator\SalaryCalculator2009\bin\Debug\SalaryCalculator2009.exe.config
+C:\Users\gmagwaza\Desktop\2021\1.CPR\Term1\Student Projects 2021\3.SalaryCalculator\SalaryCalculator2009\obj\Debug\SalaryCalculator2009.exe
+C:\Users\gmagwaza\Desktop\2021\1.CPR\Term1\Student Projects 2021\3.SalaryCalculator\SalaryCalculator2009\obj\Debug\SalaryCalculator2009.xml
+C:\Users\gmagwaza\Desktop\2021\1.CPR\Term1\Student Projects 2021\3.SalaryCalculator\SalaryCalculator2009\obj\Debug\SalaryCalculator2009.pdb
+C:\Users\gmagwaza\Desktop\2021\1.CPR\Term1\Student Projects 2021\1.Object Oriented Programming\3.SalaryCalculator\SalaryCalculator2009\bin\Debug\SalaryCalculator2009.exe.config
+C:\Users\gmagwaza\Desktop\2021\1.CPR\Term1\Student Projects 2021\1.Object Oriented Programming\3.SalaryCalculator\SalaryCalculator2009\obj\Debug\SalaryCalculator2009.exe
+C:\Users\gmagwaza\Desktop\2021\1.CPR\Term1\Student Projects 2021\1.Object Oriented Programming\3.SalaryCalculator\SalaryCalculator2009\obj\Debug\SalaryCalculator2009.xml
+C:\Users\gmagwaza\Desktop\2021\1.CPR\Term1\Student Projects 2021\1.Object Oriented Programming\3.SalaryCalculator\SalaryCalculator2009\obj\Debug\SalaryCalculator2009.pdb
+C:\Users\gmagwaza\Desktop\2021\1.CPR\Term1\Student Projects 2021\1.Object Oriented Programming\3.SalaryCalculator\SalaryCalculator2009\bin\Debug\SalaryCalculator2009.exe
+C:\Users\gmagwaza\Desktop\2021\1.CPR\Term1\Student Projects 2021\1.Object Oriented Programming\3.SalaryCalculator\SalaryCalculator2009\bin\Debug\SalaryCalculator2009.pdb
+C:\Users\gmagwaza\Desktop\2021\1.CPR\Term1\Student Projects 2021\1.Object Oriented Programming\3.SalaryCalculator\SalaryCalculator2009\bin\Debug\SalaryCalculator2009.xml
+C:\Users\gmagwaza\Desktop\2021\1.CPR\Term1\Student Projects 2021\1.Object Oriented Programming\3.SalaryCalculator\SalaryCalculator2009\obj\Debug\SalaryCalculator2009.Form1.resources
+C:\Users\gmagwaza\Desktop\2021\1.CPR\Term1\Student Projects 2021\1.Object Oriented Programming\3.SalaryCalculator\SalaryCalculator2009\obj\Debug\SalaryCalculator2009.Resources.resources
+C:\Users\gmagwaza\Desktop\2021\1.CPR\Term1\Student Projects 2021\1.Object Oriented Programming\3.SalaryCalculator\SalaryCalculator2009\obj\Debug\SalaryCalculator2009.vbproj.GenerateResource.Cache

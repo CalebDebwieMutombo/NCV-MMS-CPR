@@ -1,0 +1,17 @@
+M:\IT Material\CPR-Mr Magwaza\1.CPR_2017\CPR_PRACTICAL_QP_AND_SOLUTION_FILES\Key Material November 2014_Pending_SF\TheAssessment\TheAssessment\bin\Debug\TheAssessment.exe.config
+M:\IT Material\CPR-Mr Magwaza\1.CPR_2017\Key Material November 2014\TheAssessment\TheAssessment\bin\Debug\TheAssessment.exe.config
+M:\IT Material\CPR-Mr Magwaza\1.CPR_2017\CPR_Practical_Attempted_2017\Key Material November 2014\TheAssessment\TheAssessment\bin\Debug\TheAssessment.exe.config
+Z:\27.CPR_2018\9.Key Material November 2014_Exe2\TheAssessment\TheAssessment\bin\Debug\TheAssessment.exe.config
+Z:\27.CPR_2018\9.Key Material November 2014_Exe2\TheAssessment\TheAssessment\bin\Debug\TheAssessment.exe
+Z:\27.CPR_2018\9.Key Material November 2014_Exe2\TheAssessment\TheAssessment\bin\Debug\TheAssessment.pdb
+Z:\27.CPR_2018\9.Key Material November 2014_Exe2\TheAssessment\TheAssessment\bin\Debug\TheAssessment.xml
+Z:\27.CPR_2018\9.Key Material November 2014_Exe2\TheAssessment\TheAssessment\obj\Debug\TheAssessment.Form1.resources
+Z:\27.CPR_2018\9.Key Material November 2014_Exe2\TheAssessment\TheAssessment\obj\Debug\TheAssessment.Resources.resources
+Z:\27.CPR_2018\9.Key Material November 2014_Exe2\TheAssessment\TheAssessment\obj\Debug\TheAssessment.vbproj.GenerateResource.Cache
+Z:\27.CPR_2018\9.Key Material November 2014_Exe2\TheAssessment\TheAssessment\obj\Debug\TheAssessment.exe
+Z:\27.CPR_2018\9.Key Material November 2014_Exe2\TheAssessment\TheAssessment\obj\Debug\TheAssessment.xml
+Z:\27.CPR_2018\9.Key Material November 2014_Exe2\TheAssessment\TheAssessment\obj\Debug\TheAssessment.pdb
+C:\Users\gmagwaza\Desktop\GMA_DESKTOP_2019\3.CPR\4.CPR_PROJECTS_2019_LECTURER\5.Assessment\TheAssessment\TheAssessment\bin\Debug\TheAssessment.exe.config
+C:\Users\gmagwaza\Desktop\GMA_DESKTOP_2019\3.CPR\4.CPR_PROJECTS_2019_LECTURER\5.Assessment\TheAssessment\TheAssessment\obj\Debug\TheAssessment.exe
+C:\Users\gmagwaza\Desktop\GMA_DESKTOP_2019\3.CPR\4.CPR_PROJECTS_2019_LECTURER\5.Assessment\TheAssessment\TheAssessment\obj\Debug\TheAssessment.xml
+C:\Users\gmagwaza\Desktop\GMA_DESKTOP_2019\3.CPR\4.CPR_PROJECTS_2019_LECTURER\5.Assessment\TheAssessment\TheAssessment\obj\Debug\TheAssessment.pdb

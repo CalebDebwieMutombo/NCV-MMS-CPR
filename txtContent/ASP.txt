@@ -1,0 +1,116 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<!--Someone Programming-->
+<meta http-equiv="Content-Language" content="en-za" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!--2.2.1-->
+<link type="text/css" href="styling.css" rel="stylesheet" />
+<!--2.4-->
+<script type="text/javascript">
+function calcTotal()
+{
+//Declare constants
+const femalePrice=150.95;
+const malePrice=180.95;
+//Declare input variables
+var femaleQuantity;
+var maleQuantity;
+//Declare output variables
+var femaleTotal;
+var maleTotal;
+var Total;
+//Initialisation of input
+femaleQuantity=parseFloat(document.getElementById("txtFemaleQuantity").value);
+maleQuantity=parseFloat(document.getElementById("txtFemaleQuantity").value);
+//Calculation
+femaleTotal=femalePrice*femaleQuantity;
+maleTotal=malePrice*maleQuantity;
+Total=femaleTotal+maleTotal;
+//Display
+document.getElementById("lblFemaleTotal").innerHTML=femaleTotal.toFixed(2);
+document.getElementById("lblMaleTotal").innerHTML=maleTotal.toFixed(2);
+document.getElementById("lblTotal").innerHTML=Total.toFixed(2);
+}
+</script>
+<title>ORDER</title>
+
+</head>
+
+<body>
+<div id="page">
+<div id="banner">
+<!--2.2.3-->
+<img src="swegga.jpg" height="350px" width="150px" />
+</div>
+<div id="navigation">
+<!--2.2.4-->
+<img src="links.gif" height="85px" width="300px" />
+</div>
+<!--2.2.2-->
+<div id="sidebar">
+<img src="swegga.jpg" height="350px" width="150px" />
+</div>
+<div id="main">
+<!--2.1-->
+<form name="orders">
+<caption>Product Summary</caption>
+<table>
+<tr>
+<th>Description</th><th>Size</th><th>Colour</th><th>Price</th><th>Quantity</th><th>Total</th>
+</tr>
+<tr>
+<td><a href="#">Female Ski Jackets</a></td>
+<td>
+<select id="cboSize">
+<option>Small</option>
+<option>Medium</option>
+<option>Large</option>
+</select>
+</td>
+<td>
+<select id="cboColour">
+<option>Red</option>
+<option>Pink</option>
+<option>Blue</option>
+</select>
+</td>
+<td>150.95</td>
+<td><input type="text" id="txtFemaleQuantity" /></td>
+<td><span id="lblFemaleTotal">Total</span></td>
+</tr>
+<tr>
+<td><a href="#">Male Ski Jackets</a></td>
+<td>
+<select id="cboSize">
+<option>Small</option>
+<option>Medium</option>
+<option>Large</option>
+</select>
+</td>
+<td>
+<select id="cboColour">
+<option>Red</option>
+<option>Blue</option>
+<option>White</option>
+</select>
+</td>
+<td>180.95</td>
+<td><input type="text" id="txtMaleQuantity" /></td>
+<td><span id="lblMaleTotal">Total</span></td>
+</tr>
+<tr>
+<td colspan="4">Click to confirm and process your order</td>
+<td><input type="button" id="btnTotalPrice" value="Total Price" onclick="calcTotal()"	` /></td>
+<td><span id="lblTotal">Total</span></td>
+</tr>
+</table>
+</form >
+</div>
+<div id="footer">
+<p>&copy;2021 Swegga Fashion</p>
+</div>
+</div>
+</body>
+</html>

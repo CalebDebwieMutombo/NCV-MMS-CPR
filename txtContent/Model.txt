@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Models</title>
+<style type="text/css">
+#left{float:left;}
+#heading{margin-left:150px;}
+#middle{margin-left:150px;}
+</style>
+</head>
+<body>
+<div id="left">
+<img src="model.jpg" width="150px" height="100px"/><br/>
+<br/>
+<a href="#">Calculate Average</a><br/>
+<a href="#">Display Date and <br/> Time</a><br/>
+</div>
+
+<div id="heading">
+<img src="navigation.png" />
+<h1>MODELS</h1>
+</div>
+
+<div id="middle">
+<p>She may be only 10, but Dube Rexis is </br> already a top 
+model,and she had been at it </br> for two years.</p>
+<p>Dube was discovered 2 1/2 years ago at a modelling showcase 
+in the <br/>Seminole Hard Rock Hotel &amp; Casino in Hollywood.
+She was spotted by <br/> Marry Clark, but it was no an auspicious
+meeting at first</p>
+<table border="3">
+<tr>
+<td>Orange</td><td>Vitamin B</td><td>Immune Booster</td>
+</tr>
+<tr>
+<td>Mango</td><td>Vitamin A</td><td>Energizer</td>
+</tr>
+<tr>
+<td>Banana</td><td>Vitamin D</td><td>Starch</td>
+</tr>
+</table>
+<br/>
+<br/>
+</div>
+</body>
+</html>

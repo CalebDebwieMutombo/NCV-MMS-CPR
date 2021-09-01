@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!--Someone Programming-->
+<title>Login</title>
+<script type="text/javascript">
+function validateControls()
+{
+//Declare variables
+var username;
+var password;
+//Initialise variables
+username=document.getElementById("txtUsername").value;
+password=document.getElementById("txtPassword").value;
+//Defensive programming
+if (username=="")
+{
+alert("Enter Username");
+document.getElementById("txtUsername").focus();
+return false;
+}
+if (password=="")
+{
+alert("Enter Password");
+document.getElementById("txtPassword").focus();
+return false;
+}
+}
+</script>
+</head>
+<body>
+<form>
+<label for="txtUsername">Username</label>&nbsp;&nbsp;&nbsp;&nbsp;
+<input type="text" id="txtUsername" /><br/><br/>
+<label for="txtPassword">Password</label>
+<input type="text" id="txtPassword" /><br/><br/>
+<input type="button" id="btnLogin" value="Login" onclick="validateControls()" /><br/>
+</form>
+</body>
+</html>
